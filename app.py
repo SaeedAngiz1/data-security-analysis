@@ -56,6 +56,13 @@ st.logo("DataSecurity.png")
 st.title("Data Security Analysis Platform")
 st.markdown("Securely analyze, version-control, and export your spreadsheet data.")
 
+# --- Sidebar Attribution ---
+with st.sidebar:
+    st.markdown("---")
+    st.markdown("### 👨‍💻 Developer")
+    st.markdown("**Mohammad Saeed Angiz**")
+    st.markdown("[GitHub](https://github.com/saeedangiz1)")
+
 # --- UI Tabs ---
 tab_ingest, tab_workspace, tab_history, tab_security, tab_settings, tab_manual = st.tabs([
     "📥 Data Ingestion", 
@@ -318,4 +325,7 @@ with tab_manual:
 
     ### Privacy Guarantee
     This application runs entirely on your local machine. Your data is kept in your browser's memory and is **never** saved to a local disk unless you explicitly download it. The only time data leaves your machine is if you configure an external LLM provider to summarize your changes.
+    
+    ---
+    **Created by : Mohammad Saeed Angiz**
     """)

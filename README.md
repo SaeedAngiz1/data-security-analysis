@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Security-AES--256-green?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Security">
   <img src="https://img.shields.io/badge/AI-Ollama%20%2F%20OpenAI-blueviolet?style=for-the-badge" alt="AI">
+  <br>
+  <a href="https://security-data.streamlit.app">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
+  </a>
 </p>
 
 ---
@@ -102,5 +106,9 @@ This application handles encryption keys in **memory only**.
 
 <p align="center">
   Built with ❤️ for Data Security Professionals
+</p>
+
+<p align="center">
+  <strong>Created by : Mohammad Saeed Angiz</strong>
 </p>
 
