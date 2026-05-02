@@ -97,7 +97,7 @@ This application handles encryption keys in **memory only**.
 ---
 
 <p align="center">
-  <img src="Background.png" alt="Footer Background" style="border-radius: 15px; opacity: 0.8;">
+  <img src="footer.png" alt="Footer Background" style="border-radius: 15px; opacity: 0.8;">
 </p>
 
 <p align="center">
